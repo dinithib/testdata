@@ -1,0 +1,335 @@
+[
+  {
+    "modelType": {
+      "name": "Property"
+    },
+    "dataSpecification": [],
+    "embeddedDataSpecifications": [],
+    "kind": "Instance",
+    "value": -21.985502958,
+    "valueType": "double",
+    "idShort": "position_x",
+    "category": "VARIABLE",
+    "description": [
+      {
+        "language": "en",
+        "text": "This data indicate the position x of the arm in gantry machine"
+      }
+    ],
+    "qualifiers": [],
+    "semanticId": {
+      "keys": []
+    },
+    "parent": {
+      "keys": [
+        {
+          "type": "Submodel",
+          "local": true,
+          "value": "https://example.com/ids/sm/8373_6021_1032_2266",
+          "idType": "IRI"
+        }
+      ]
+    }
+  },
+  {
+    "modelType": {
+      "name": "Property"
+    },
+    "dataSpecification": [],
+    "embeddedDataSpecifications": [],
+    "kind": "Instance",
+    "value": 1326.96314454,
+    "valueType": "double",
+    "idShort": "position_y",
+    "category": "VARIABLE",
+    "qualifiers": [],
+    "semanticId": {
+      "keys": []
+    },
+    "parent": {
+      "keys": [
+        {
+          "type": "Submodel",
+          "local": true,
+          "value": "https://example.com/ids/sm/8373_6021_1032_2266",
+          "idType": "IRI"
+        }
+      ]
+    }
+  },
+  {
+    "modelType": {
+      "name": "Property"
+    },
+    "dataSpecification": [],
+    "embeddedDataSpecifications": [],
+    "kind": "Instance",
+    "value": 90.2344548411,
+    "valueType": "double",
+    "idShort": "position_z",
+    "category": "VARIABLE",
+    "qualifiers": [],
+    "semanticId": {
+      "keys": []
+    },
+    "parent": {
+      "keys": [
+        {
+          "type": "Submodel",
+          "local": true,
+          "value": "https://example.com/ids/sm/8373_6021_1032_2266",
+          "idType": "IRI"
+        }
+      ]
+    }
+  },
+  {
+    "modelType": {
+      "name": "Property"
+    },
+    "dataSpecification": [],
+    "embeddedDataSpecifications": [],
+    "kind": "Instance",
+    "value": 0,
+    "valueType": "double",
+    "idShort": "x_torque",
+    "category": "VARIABLE",
+    "semanticId": {
+      "keys": []
+    },
+    "parent": {
+      "keys": [
+        {
+          "type": "Submodel",
+          "local": true,
+          "value": "https://example.com/ids/sm/8373_6021_1032_2266",
+          "idType": "IRI"
+        }
+      ]
+    }
+  },
+  {
+    "modelType": {
+      "name": "Property"
+    },
+    "dataSpecification": [],
+    "embeddedDataSpecifications": [],
+    "kind": "Instance",
+    "value": 0,
+    "valueType": "double",
+    "idShort": "y_torque",
+    "category": "VARIABLE",
+    "semanticId": {
+      "keys": []
+    },
+    "parent": {
+      "keys": [
+        {
+          "type": "Submodel",
+          "local": true,
+          "value": "https://example.com/ids/sm/8373_6021_1032_2266",
+          "idType": "IRI"
+        }
+      ]
+    }
+  },
+  {
+    "modelType": {
+      "name": "Property"
+    },
+    "dataSpecification": [],
+    "embeddedDataSpecifications": [],
+    "kind": "Instance",
+    "value": 0,
+    "valueType": "double",
+    "idShort": "z_torque",
+    "category": "VARIABLE",
+    "semanticId": {
+      "keys": []
+    },
+    "parent": {
+      "keys": [
+        {
+          "type": "Submodel",
+          "local": true,
+          "value": "https://example.com/ids/sm/8373_6021_1032_2266",
+          "idType": "IRI"
+        }
+      ]
+    }
+  },
+  {
+    "modelType": {
+      "name": "Property"
+    },
+    "dataSpecification": [],
+    "embeddedDataSpecifications": [],
+    "kind": "Instance",
+    "value": 0,
+    "valueType": "double",
+    "idShort": "x_velocity",
+    "semanticId": {
+      "keys": []
+    },
+    "parent": {
+      "keys": [
+        {
+          "type": "Submodel",
+          "local": true,
+          "value": "https://example.com/ids/sm/8373_6021_1032_2266",
+          "idType": "IRI"
+        }
+      ]
+    }
+  },
+  {
+    "modelType": {
+      "name": "Property"
+    },
+    "dataSpecification": [],
+    "embeddedDataSpecifications": [],
+    "kind": "Instance",
+    "value": 0,
+    "valueType": "double",
+    "idShort": "y_velocity",
+    "category": "VARIABLE",
+    "semanticId": {
+      "keys": []
+    },
+    "parent": {
+      "keys": [
+        {
+          "type": "Submodel",
+          "local": true,
+          "value": "https://example.com/ids/sm/8373_6021_1032_2266",
+          "idType": "IRI"
+        }
+      ]
+    }
+  },
+  {
+    "modelType": {
+      "name": "Property"
+    },
+    "dataSpecification": [],
+    "embeddedDataSpecifications": [],
+    "kind": "Instance",
+    "value": 0,
+    "valueType": "double",
+    "idShort": "z_velocity",
+    "category": "VARIABLE",
+    "semanticId": {
+      "keys": []
+    },
+    "parent": {
+      "keys": [
+        {
+          "type": "Submodel",
+          "local": true,
+          "value": "https://example.com/ids/sm/8373_6021_1032_2266",
+          "idType": "IRI"
+        }
+      ]
+    }
+  },
+  {
+    "modelType": {
+      "name": "Property"
+    },
+    "dataSpecification": [],
+    "embeddedDataSpecifications": [],
+    "kind": "Instance",
+    "value": true,
+    "valueType": "boolean",
+    "idShort": "active",
+    "category": "VARIABLE",
+    "semanticId": {
+      "keys": []
+    },
+    "parent": {
+      "keys": [
+        {
+          "type": "Submodel",
+          "local": true,
+          "value": "https://example.com/ids/sm/8373_6021_1032_2266",
+          "idType": "IRI"
+        }
+      ]
+    }
+  },
+  {
+    "modelType": {
+      "name": "Property"
+    },
+    "dataSpecification": [],
+    "embeddedDataSpecifications": [],
+    "kind": "Instance",
+    "value": "35",
+    "valueType": "int",
+    "idShort": "free_spaces",
+    "category": "VARIABLE",
+    "semanticId": {
+      "keys": []
+    },
+    "parent": {
+      "keys": [
+        {
+          "type": "Submodel",
+          "local": true,
+          "value": "https://example.com/ids/sm/8373_6021_1032_2266",
+          "idType": "IRI"
+        }
+      ]
+    }
+  },
+  {
+    "modelType": {
+      "name": "Property"
+    },
+    "dataSpecification": [],
+    "embeddedDataSpecifications": [],
+    "kind": "Instance",
+    "value": "427",
+    "valueType": "int",
+    "idShort": "occupied_spaces",
+    "category": "VARIABLE",
+    "semanticId": {
+      "keys": []
+    },
+    "parent": {
+      "keys": [
+        {
+          "type": "Submodel",
+          "local": true,
+          "value": "https://example.com/ids/sm/8373_6021_1032_2266",
+          "idType": "IRI"
+        }
+      ]
+    }
+  },
+  {
+    "modelType": {
+      "name": "Property"
+    },
+    "dataSpecification": [],
+    "embeddedDataSpecifications": [],
+    "kind": "Instance",
+    "value": "RUN",
+    "valueType": "string",
+    "idShort": "device_status_mode",
+    "category": "VARIABLE",
+    "semanticId": {
+      "keys": []
+    },
+    "parent": {
+      "keys": [
+        {
+          "type": "Submodel",
+          "local": true,
+          "value": "https://example.com/ids/sm/8373_6021_1032_2266",
+          "idType": "IRI"
+        }
+      ]
+    }
+  }
+]
